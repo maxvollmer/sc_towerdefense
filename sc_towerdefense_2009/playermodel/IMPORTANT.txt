@@ -1,0 +1,4 @@
+DO NOT CHANGE THIS MODEL!
+sc_towerdefense will not work if you replace or modify the player model!
+
+File by Protector, using Milkshape and animation definitions from standard SC4.0 player models.

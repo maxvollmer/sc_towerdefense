@@ -1,0 +1,774 @@
+{
+"classname" "worldspawn"
+"classname" "worldspawn"
+"MaxRange" "8192"
+"sounds" "1"
+"scversion" "401"
+"mapversion" "220"
+"wad" "\spiele\valve\valve\halflife.wad;\work\hl\towerdefence\sc_towerdefense_2009\zhlt.wad;\work\hl\towerdefence\sc_towerdefense_2009\sc_towerdefense.wad;\spiele\valve\valve\decals.wad"
+{
+( -1056 512 960 ) ( 1056 512 960 ) ( 1056 -512 960 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 512 960 ) ( -1056 -512 960 ) ( -1056 -512 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 -512 960 ) ( 1056 512 960 ) ( 1056 512 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 512 960 ) ( -1056 512 960 ) ( -1056 512 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 -512 960 ) ( 1056 -512 960 ) ( 1056 -512 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 -512 928 ) ( 1056 -512 928 ) ( 1056 512 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -1056 -512 -64 ) ( 1056 -512 -64 ) ( 1056 512 -64 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 -512 -64 ) ( -1056 512 -64 ) ( -1056 512 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 512 -64 ) ( 1056 -512 -64 ) ( 1056 -512 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 512 -64 ) ( 1056 512 -64 ) ( 1056 512 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 -512 -64 ) ( -1056 -512 -64 ) ( -1056 -512 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 512 -32 ) ( 1056 512 -32 ) ( 1056 -512 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -1088 -512 928 ) ( -1088 -512 -32 ) ( -1088 512 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1088 512 928 ) ( -1088 512 -32 ) ( -1056 512 -32 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 -512 -32 ) ( -1088 -512 -32 ) ( -1088 -512 928 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 0 -1 64 ] 0 1 1 
+( -1088 -512 928 ) ( -1088 512 928 ) ( -1056 512 928 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 1 1 
+( -1088 512 -32 ) ( -1088 -512 -32 ) ( -1056 -512 -32 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 512 928 ) ( -1056 512 -32 ) ( -1056 -512 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+}
+{
+( 1088 512 -32 ) ( 1088 -512 -32 ) ( 1088 -512 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1088 512 -32 ) ( 1088 512 928 ) ( 1056 512 928 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 0 -1 64 ] 0 1 1 
+( 1088 -512 -32 ) ( 1056 -512 -32 ) ( 1056 -512 928 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 0 -1 64 ] 0 1 1 
+( 1088 512 928 ) ( 1088 -512 928 ) ( 1056 -512 928 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 1 1 
+( 1088 -512 -32 ) ( 1088 512 -32 ) ( 1056 512 -32 ) BABTECH6_2 [ 1 0 0 64 ] [ 0 -1 0 0 ] 0 1 1 
+( 1056 -512 -32 ) ( 1056 512 -32 ) ( 1056 512 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+}
+{
+( 1056 512 -32 ) ( 1056 512 928 ) ( -1056 512 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 512 928 ) ( 1056 512 928 ) ( 1056 480 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 512 -32 ) ( -1056 480 -32 ) ( 1056 480 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 512 -32 ) ( -1056 512 928 ) ( -1056 480 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 512 -32 ) ( 1056 480 -32 ) ( 1056 480 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 480 -32 ) ( -1056 480 928 ) ( 1056 480 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+}
+{
+( -1056 -512 -32 ) ( -1056 -512 928 ) ( 1056 -512 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( -1056 -512 928 ) ( -1056 -480 928 ) ( 1056 -480 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 -512 -32 ) ( 1056 -512 -32 ) ( 1056 -480 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -1056 -512 -32 ) ( -1056 -480 -32 ) ( -1056 -480 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 -512 -32 ) ( 1056 -512 928 ) ( 1056 -480 928 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+( 1056 -480 -32 ) ( 1056 -480 928 ) ( -1056 -480 928 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 64 ] 0 1 1 
+}
+{
+( 144 464 128 ) ( 176 464 128 ) ( 176 240 128 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 -1 0 0 ] 0 1 1 
+( 144 240 -32 ) ( 176 240 -32 ) ( 176 464 -32 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 -1 0 0 ] 0 1 1 
+( 144 464 128 ) ( 144 240 128 ) ( 144 240 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 176 464 -32 ) ( 176 240 -32 ) ( 176 240 128 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 176 464 128 ) ( 144 464 128 ) ( 144 464 -32 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 0 -1 0 ] 0 1 1 
+( 176 240 -32 ) ( 144 240 -32 ) ( 144 240 128 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 64 -288 48 ) ( 128 -288 48 ) ( 128 -416 48 ) BABTECH6_2 [ 1 0 0 -96 ] [ 0 -1 0 -112 ] 0 1 1 
+( 64 -416 16 ) ( 128 -416 16 ) ( 128 -288 16 ) BABTECH6_2 [ 1 0 0 -96 ] [ 0 -1 0 -112 ] 0 1 1 
+( 64 -288 48 ) ( 64 -416 48 ) ( 64 -416 16 ) BABTECH6_2 [ 0 1 0 112 ] [ 0 0 -1 -112 ] 0 1 1 
+( 128 -288 16 ) ( 128 -416 16 ) ( 128 -416 48 ) BABTECH6_2 [ 0 1 0 112 ] [ 0 0 -1 -112 ] 0 1 1 
+( 128 -288 48 ) ( 64 -288 48 ) ( 64 -288 16 ) BABTECH6_2 [ 1 0 0 -96 ] [ 0 0 -1 -112 ] 0 1 1 
+( 128 -416 16 ) ( 64 -416 16 ) ( 64 -416 48 ) BABTECH6_2 [ 1 0 0 -96 ] [ 0 0 -1 -112 ] 0 1 1 
+}
+{
+( 128 -256 0 ) ( 192 -256 0 ) ( 192 -448 0 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 -1 0 -80 ] 0 1 1 
+( 128 -448 -32 ) ( 192 -448 -32 ) ( 192 -256 -32 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 -1 0 -80 ] 0 1 1 
+( 128 -256 0 ) ( 128 -448 0 ) ( 128 -448 -32 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 -32 ] 0 1 1 
+( 192 -256 -32 ) ( 192 -448 -32 ) ( 192 -448 0 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 -32 ] 0 1 1 
+( 192 -256 0 ) ( 128 -256 0 ) ( 128 -256 -32 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 0 -1 -32 ] 0 1 1 
+( 192 -448 -32 ) ( 128 -448 -32 ) ( 128 -448 0 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 0 -1 -32 ] 0 1 1 
+}
+{
+( 32 -320 96 ) ( 64 -320 96 ) ( 64 -384 96 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 -1 0 -80 ] 0 1 1 
+( 32 -384 64 ) ( 64 -384 64 ) ( 64 -320 64 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 -1 0 -80 ] 0 1 1 
+( 32 -320 96 ) ( 32 -384 96 ) ( 32 -384 64 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 -64 ] 0 1 1 
+( 64 -320 64 ) ( 64 -384 64 ) ( 64 -384 96 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 -64 ] 0 1 1 
+( 64 -320 96 ) ( 32 -320 96 ) ( 32 -320 64 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 0 -1 -64 ] 0 1 1 
+( 64 -384 64 ) ( 32 -384 64 ) ( 32 -384 96 ) BABTECH6_2 [ 1 0 0 -64 ] [ 0 0 -1 -64 ] 0 1 1 
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 90 0"
+"netname" "test_player1"
+"origin" "0 -192 64"
+}
+{
+"classname" "info_player_coop"
+"angles" "0 90 0"
+"netname" "test_player1"
+"origin" "128 -192 64"
+}
+{
+"classname" "info_player_deathmatch"
+"angles" "0 90 0"
+"netname" "test_player1"
+"origin" "-128 -192 64"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"target" "loltrain"
+"triggerstate" "1"
+"delay" "2"
+"origin" "-288 -96 512"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"targetname" "testtargetmultiple"
+"message" "testtargetmultiple"
+"x" "-1"
+"y" "-1"
+"color" "255 0 0"
+"color2" "255 0 0"
+"holdtime" "1"
+"fxtime" "0.25"
+"channel" "1"
+"origin" "192 -128 512"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"target" "test_childtext"
+"triggerstate" "1"
+"delay" "2"
+"origin" "32 112 512"
+}
+{
+"classname" "weapon_rpg"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"origin" "0 0 192"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"target" "lolplayeromfg"
+"triggerstate" "1"
+"delay" "2"
+"origin" "-128 0 512"
+}
+{
+"classname" "trigger_setorigin"
+"spawnflags" "897"
+"offset" "0 0 100"
+"copypointer" "test_player1"
+"targetname" "lolplayeromfg"
+"target" "test_target2"
+"origin" "256 0 384"
+}
+{
+"classname" "trigger_copyvalue"
+"spawnflags" "24"
+"m_iszOldValueName" "rendercolor"
+"m_iszNewValueName" "rendercolor"
+"target" "test_target2"
+"netname" "test_target1"
+"origin" "128 256 64"
+}
+{
+"classname" "env_sprite"
+"spawnflags" "1"
+"targetname" "test_target2"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "255 0 0"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "2"
+"origin" "64 320 64"
+}
+{
+"classname" "trigger_changetarget"
+"target" "retrigger_mm1"
+"targetname" "changetotestmm1"
+"m_iszNewTarget" "test_mm1"
+"origin" "-240 192 512"
+}
+{
+"classname" "game_counter"
+"spawnflags" "2"
+"target" "changetotestmm1"
+"targetname" "test_mm2_counter"
+"health" "255"
+"origin" "-272 192 512"
+}
+{
+"classname" "multi_manager"
+"targetname" "test_mm2"
+"retrigger_mm1" "0"
+"test_mm2_counter" "0"
+"test_changevalue2" "0"
+"origin" "-240 272 512"
+}
+{
+"classname" "trigger_changetarget"
+"target" "retrigger_mm1"
+"targetname" "changetotestmm2"
+"m_iszNewTarget" "test_mm2"
+"origin" "-240 224 512"
+}
+{
+"classname" "game_counter"
+"spawnflags" "2"
+"target" "changetotestmm2"
+"targetname" "test_mm1_counter"
+"health" "255"
+"origin" "-272 224 512"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"target" "test_target1"
+"triggerstate" "1"
+"origin" "-352 256 512"
+}
+{
+"classname" "trigger_changevalue"
+"targetname" "test_changevalue2"
+"target" "test_target1"
+"m_iszValueType" "1"
+"m_iszValueName" "rendercolor"
+"m_iszNewValue" "1 -0.5 0"
+"origin" "-288 320 448"
+}
+{
+"classname" "trigger_relay"
+"target" "test_mm1"
+"triggerstate" "1"
+"targetname" "retrigger_mm1"
+"delay" "0.01"
+"origin" "-272 256 512"
+}
+{
+"classname" "multi_manager"
+"targetname" "test_mm1"
+"test_changevalue1" "0"
+"retrigger_mm1" "0"
+"test_mm1_counter" "0"
+"origin" "-240 256 512"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"target" "test_mm1"
+"triggerstate" "1"
+"origin" "-320 256 512"
+}
+{
+"classname" "env_sprite"
+"spawnflags" "1"
+"targetname" "test_target1"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "255 0 0"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "2"
+"origin" "0 320 64"
+}
+{
+"classname" "trigger_changevalue"
+"targetname" "test_changevalue1"
+"target" "test_target1"
+"m_iszValueType" "3"
+"m_iszValueName" "rendercolor"
+"m_iszNewValue" "1 -0.5 0"
+"origin" "-320 320 448"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "24"
+"target" "testtargetmultiple"
+{
+( 192 448 64 ) ( 448 448 64 ) ( 448 256 64 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 -1 0 16 ] 0 1 1 
+( 192 256 0 ) ( 448 256 0 ) ( 448 448 0 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 -1 0 16 ] 0 1 1 
+( 192 448 64 ) ( 192 256 64 ) ( 192 256 0 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 448 448 0 ) ( 448 256 0 ) ( 448 256 64 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 448 448 64 ) ( 192 448 64 ) ( 192 448 0 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 448 256 0 ) ( 192 256 0 ) ( 192 256 64 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+}
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "8"
+"target" "testtargetmultiple"
+{
+( -448 448 64 ) ( -192 448 64 ) ( -192 256 64 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 1 1 
+( -448 256 0 ) ( -192 256 0 ) ( -192 448 0 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 1 1 
+( -448 448 64 ) ( -448 256 64 ) ( -448 256 0 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -192 448 0 ) ( -192 256 0 ) ( -192 256 64 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -192 448 64 ) ( -448 448 64 ) ( -448 448 0 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -192 256 0 ) ( -448 256 0 ) ( -448 256 64 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+}
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "40"
+"target" "testtargetmultiple"
+{
+( -128 448 64 ) ( 128 448 64 ) ( 128 256 64 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 -1 0 16 ] 0 1 1 
+( -128 256 0 ) ( 128 256 0 ) ( 128 448 0 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 -1 0 16 ] 0 1 1 
+( -128 448 64 ) ( -128 256 64 ) ( -128 256 0 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 128 448 0 ) ( 128 256 0 ) ( 128 256 64 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 128 448 64 ) ( -128 448 64 ) ( -128 448 0 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 128 256 0 ) ( -128 256 0 ) ( -128 256 64 ) AAATRIGGER [ 1 0 0 -16 ] [ 0 0 -1 -16 ] 0 1 1 
+}
+}
+{
+"classname" "path_corner"
+"angles" "0 0 0"
+"targetname" "corner1"
+"target" "corner2"
+"origin" "-320 128 32"
+}
+{
+"classname" "path_corner"
+"angles" "0 0 0"
+"targetname" "corner2"
+"target" "corner3"
+"origin" "320 128 32"
+}
+{
+"classname" "path_corner"
+"angles" "0 0 0"
+"targetname" "corner3"
+"target" "corner4"
+"origin" "320 384 32"
+}
+{
+"classname" "path_corner"
+"angles" "0 0 0"
+"targetname" "corner4"
+"target" "corner1"
+"origin" "-320 384 32"
+}
+{
+"classname" "trigger_vote"
+"target" "left_light"
+"frags" "30"
+"health" "50"
+"netname" "right_light"
+"message" "Which light should be green, left (yes) or right (no)?"
+"targetname" "votetest"
+"noise" "middle_light"
+"origin" "192 64 32"
+}
+{
+"classname" "env_sprite"
+"targetname" "left_light"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "0 0 255"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "4"
+"origin" "-320 416 128"
+}
+{
+"classname" "env_sprite"
+"targetname" "right_light"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "0 0 255"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "4"
+"origin" "320 416 128"
+}
+{
+"classname" "env_sprite"
+"targetname" "middle_light"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "0 0 255"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "4"
+"origin" "0 416 128"
+}
+{
+"classname" "func_button"
+"spawnflags" "33"
+"rendercolor" "0 0 0"
+"angles" "0 0 0"
+"speed" "5"
+"wait" "3"
+"target" "votetest"
+{
+( 0 -96 32 ) ( 16 -96 32 ) ( 16 -112 32 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1 
+( 0 -112 16 ) ( 16 -112 16 ) ( 16 -96 16 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1 
+( 0 -96 32 ) ( 0 -112 32 ) ( 0 -112 16 ) BABTECH_WALL03 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -96 16 ) ( 16 -112 16 ) ( 16 -112 32 ) BABTECH_WALL03 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -96 32 ) ( 0 -96 32 ) ( 0 -96 16 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -112 16 ) ( 0 -112 16 ) ( 0 -112 32 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "func_wall"
+"rendercolor" "0 0 0"
+{
+( -176 464 128 ) ( -144 464 128 ) ( -144 240 128 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -176 240 -32 ) ( -144 240 -32 ) ( -144 464 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -176 464 128 ) ( -176 240 128 ) ( -176 240 -32 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 464 -32 ) ( -144 240 -32 ) ( -144 240 128 ) BABTECH6_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 464 128 ) ( -176 464 128 ) ( -176 464 -32 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 240 -32 ) ( -176 240 -32 ) ( -176 240 128 ) BABTECH6_2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "func_clip"
+"spawnflags" "2"
+"frags" "90"
+"angles" "0 0 0"
+{
+( -16 -256 128 ) ( 16 -256 128 ) ( 16 -480 128 ) AAATRIGGER [ 1 0 0 -32 ] [ 0 -1 0 -80 ] 0 1 1 
+( -16 -480 -32 ) ( 16 -480 -32 ) ( 16 -256 -32 ) AAATRIGGER [ 1 0 0 -32 ] [ 0 -1 0 -80 ] 0 1 1 
+( -16 -256 128 ) ( -16 -480 128 ) ( -16 -480 -32 ) AAATRIGGER [ 0 1 0 80 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -256 -32 ) ( 16 -480 -32 ) ( 16 -480 128 ) AAATRIGGER [ 0 1 0 80 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -256 128 ) ( -16 -256 128 ) ( -16 -256 -32 ) AAATRIGGER [ 1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -480 -32 ) ( -16 -480 -32 ) ( -16 -480 128 ) AAATRIGGER [ 1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "light"
+"spawnflags" "2"
+"_light" "255 0 0 200"
+"_fade" "1.0"
+"origin" "320 0 192"
+}
+{
+"classname" "light"
+"spawnflags" "2"
+"_light" "0 0 255 200"
+"_fade" "1.0"
+"origin" "-320 0 192"
+}
+{
+"classname" "func_illusionary"
+"rendercolor" "0 0 0"
+"skin" "-1"
+"rendermode" "2"
+"renderamt" "100"
+{
+( -16 -256 128 ) ( 16 -256 128 ) ( 16 -480 128 ) BABTECH6_2 [ 1 0 0 -16 ] [ 0 -1 0 -80 ] 0 1 1 
+( -16 -480 -32 ) ( 16 -480 -32 ) ( 16 -256 -32 ) BABTECH6_2 [ 1 0 0 -16 ] [ 0 -1 0 -80 ] 0 1 1 
+( -16 -256 128 ) ( -16 -480 128 ) ( -16 -480 -32 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -256 -32 ) ( 16 -480 -32 ) ( 16 -480 128 ) BABTECH6_2 [ 0 1 0 80 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -256 128 ) ( -16 -256 128 ) ( -16 -256 -32 ) BABTECH6_2 [ 1 0 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -480 -32 ) ( -16 -480 -32 ) ( -16 -480 128 ) BABTECH6_2 [ 1 0 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "func_vehicle"
+"max_health" "1000"
+"health" "1000"
+"m_fArmor" "100"
+"targetname" "lolvehicle"
+{
+( -384 0 64 ) ( -192 0 64 ) ( -192 -128 64 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 -1 0 48 ] 0 1 1 
+( -384 -128 32 ) ( -192 -128 32 ) ( -192 0 32 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 -1 0 48 ] 0 1 1 
+( -384 0 64 ) ( -384 -128 64 ) ( -384 -128 32 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -96 ] 0 1 1 
+( -192 0 32 ) ( -192 -128 32 ) ( -192 -128 64 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -96 ] 0 1 1 
+( -192 0 64 ) ( -384 0 64 ) ( -384 0 32 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 0 -1 -96 ] 0 1 1 
+( -192 -128 32 ) ( -384 -128 32 ) ( -384 -128 64 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 0 -1 -96 ] 0 1 1 
+}
+{
+( -296 -56 80 ) ( -280 -56 80 ) ( -280 -72 80 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -296 -72 16 ) ( -280 -72 16 ) ( -280 -56 16 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -296 -56 80 ) ( -296 -72 80 ) ( -296 -72 16 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -280 -56 16 ) ( -280 -72 16 ) ( -280 -72 80 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -280 -56 80 ) ( -296 -56 80 ) ( -296 -56 16 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -280 -72 16 ) ( -296 -72 16 ) ( -296 -72 80 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "weapon_pipewrench"
+"angles" "0 0 0"
+"targetname" "corner1"
+"target" "corner2"
+"rendercolor" "0 0 0"
+"origin" "-128 -192 32"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "1"
+"rendercolor" "0 0 0"
+"angles" "0 0 0"
+"speed" "100"
+"volume" "10"
+"fanfriction" "20"
+"spawnorigin" "0 0 0"
+{
+( -640 0 64 ) ( -448 0 64 ) ( -448 -128 64 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 -1 0 48 ] 0 1 1 
+( -640 -128 32 ) ( -448 -128 32 ) ( -448 0 32 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 -1 0 48 ] 0 1 1 
+( -640 0 64 ) ( -640 -128 64 ) ( -640 -128 32 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -96 ] 0 1 1 
+( -448 0 32 ) ( -448 -128 32 ) ( -448 -128 64 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -96 ] 0 1 1 
+( -448 0 64 ) ( -640 0 64 ) ( -640 0 32 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 0 -1 -96 ] 0 1 1 
+( -448 -128 32 ) ( -640 -128 32 ) ( -640 -128 64 ) BABTECH6_2 [ 1 0 0 96 ] [ 0 0 -1 -96 ] 0 1 1 
+}
+{
+( -552 -56 80 ) ( -536 -56 80 ) ( -536 -72 80 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 1 1 
+( -552 -72 16 ) ( -536 -72 16 ) ( -536 -56 16 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 0 ] 0 1 1 
+( -552 -56 80 ) ( -552 -72 80 ) ( -552 -72 16 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -536 -56 16 ) ( -536 -72 16 ) ( -536 -72 80 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -536 -56 80 ) ( -552 -56 80 ) ( -552 -56 16 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1 
+( -536 -72 16 ) ( -552 -72 16 ) ( -552 -72 80 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "trigger_teleport"
+"spawnflags" "8"
+"target" "testtargetmultiple"
+"teleport_cooldown" "1"
+{
+( -960 256 64 ) ( -704 256 64 ) ( -704 64 64 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 -16 ] 0 1 1 
+( -960 64 0 ) ( -704 64 0 ) ( -704 256 0 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 -16 ] 0 1 1 
+( -960 256 64 ) ( -960 64 64 ) ( -960 64 0 ) AAATRIGGER [ 0 1 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -704 256 0 ) ( -704 64 0 ) ( -704 64 64 ) AAATRIGGER [ 0 1 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -704 256 64 ) ( -960 256 64 ) ( -960 256 0 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+( -704 64 0 ) ( -960 64 0 ) ( -960 64 64 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+}
+}
+{
+"classname" "func_door_rotating"
+"rendercolor" "0 0 0"
+"angles" "0 0 0"
+"speed" "100"
+"wait" "4"
+"distance" "90"
+"targetname" "parent"
+"m_fIgnoreTargetname" "1"
+"m_iOpenFlags" "5"
+{
+( -16 -120 48 ) ( 16 -120 48 ) ( 16 -136 48 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 16 ] 0 1 1 
+( -16 -136 -32 ) ( 16 -136 -32 ) ( 16 -120 -32 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 16 ] 0 1 1 
+( -16 -120 48 ) ( -16 -136 48 ) ( -16 -136 -32 ) ORIGIN [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -120 -32 ) ( 16 -136 -32 ) ( 16 -136 48 ) ORIGIN [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -120 48 ) ( -16 -120 48 ) ( -16 -120 -32 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 16 -136 -32 ) ( -16 -136 -32 ) ( -16 -136 48 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -8 -48 48 ) ( 8 -48 48 ) ( 8 -128 48 ) BABTECH6_2 [ 1 0 0 -40 ] [ 0 -1 0 16 ] 0 1 1 
+( -8 -128 -32 ) ( 8 -128 -32 ) ( 8 -48 -32 ) BABTECH6_2 [ 1 0 0 -40 ] [ 0 -1 0 16 ] 0 1 1 
+( -8 -48 48 ) ( -8 -128 48 ) ( -8 -128 -32 ) BABTECH6_2 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+( 8 -48 -32 ) ( 8 -128 -32 ) ( 8 -128 48 ) BABTECH6_2 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1 
+( 8 -48 48 ) ( -8 -48 48 ) ( -8 -48 -32 ) BABTECH6_2 [ 1 0 0 -40 ] [ 0 0 -1 0 ] 0 1 1 
+( 8 -128 -32 ) ( -8 -128 -32 ) ( -8 -128 48 ) BABTECH6_2 [ 1 0 0 -40 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "trigger_setorigin"
+"spawnflags" "1"
+"offset" "0 80 40"
+"target" "child"
+"copypointer" "parent"
+"m_fRotate" "1"
+"targetname" "lolplayeromfg"
+"origin" "128 -64 64"
+}
+{
+"classname" "env_sprite"
+"spawnflags" "1"
+"targetname" "child"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "0 0 255"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "1"
+"origin" "0 -48 48"
+}
+{
+"classname" "func_door_rotating"
+"rendercolor" "0 0 0"
+"angles" "0 0 0"
+"speed" "100"
+"wait" "4"
+"distance" "90"
+"targetname" "parent2"
+"m_fIgnoreTargetname" "1"
+"m_iOpenFlags" "5"
+{
+( 16 -144 48 ) ( -16 -144 48 ) ( -16 -128 48 ) ORIGIN [ -1 0 0 0 ] [ 0 1 0 8 ] 0 1 1 
+( 16 -128 -32 ) ( -16 -128 -32 ) ( -16 -144 -32 ) ORIGIN [ -1 0 0 0 ] [ 0 1 0 8 ] 0 1 1 
+( 16 -144 48 ) ( 16 -128 48 ) ( 16 -128 -32 ) ORIGIN [ 0 -1 0 -8 ] [ 0 0 -1 0 ] 0 1 1 
+( -16 -144 -32 ) ( -16 -128 -32 ) ( -16 -128 48 ) ORIGIN [ 0 -1 0 -8 ] [ 0 0 -1 0 ] 0 1 1 
+( -16 -144 48 ) ( 16 -144 48 ) ( 16 -144 -32 ) ORIGIN [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -16 -128 -32 ) ( 16 -128 -32 ) ( 16 -128 48 ) ORIGIN [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 8 -216 48 ) ( -8 -216 48 ) ( -8 -136 48 ) BABTECH6_2 [ -1 0 0 -40 ] [ 0 1 0 24 ] 0 1 1 
+( 8 -136 -32 ) ( -8 -136 -32 ) ( -8 -216 -32 ) BABTECH6_2 [ -1 0 0 -40 ] [ 0 1 0 24 ] 0 1 1 
+( 8 -216 48 ) ( 8 -136 48 ) ( 8 -136 -32 ) BABTECH6_2 [ 0 -1 0 -24 ] [ 0 0 -1 0 ] 0 1 1 
+( -8 -216 -32 ) ( -8 -136 -32 ) ( -8 -136 48 ) BABTECH6_2 [ 0 -1 0 -24 ] [ 0 0 -1 0 ] 0 1 1 
+( -8 -216 48 ) ( 8 -216 48 ) ( 8 -216 -32 ) BABTECH6_2 [ -1 0 0 -40 ] [ 0 0 -1 0 ] 0 1 1 
+( -8 -136 -32 ) ( 8 -136 -32 ) ( 8 -136 48 ) BABTECH6_2 [ -1 0 0 -40 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "env_sprite"
+"spawnflags" "1"
+"targetname" "child2"
+"rendermode" "5"
+"renderamt" "255"
+"rendercolor" "0 0 255"
+"angles" "0 0 0"
+"framerate" "10.0"
+"model" "sprites/glow01.spr"
+"scale" "1"
+"origin" "0 -216 48"
+}
+{
+"classname" "trigger_setorigin"
+"spawnflags" "1"
+"offset" "0 -80 40"
+"target" "child2"
+"copypointer" "parent2"
+"m_fRotate" "1"
+"targetname" "lolplayeromfg"
+"origin" "128 -96 64"
+}
+{
+"classname" "trigger_teleport"
+"spawnflags" "1997"
+"target" "teletarget"
+"teleport_cooldown" "1"
+{
+( 912 208 80 ) ( 912 176 80 ) ( 880 176 80 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 -8 ] 0 1 1 
+( 912 176 16 ) ( 912 208 16 ) ( 880 208 16 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 -8 ] 0 1 1 
+( 880 176 80 ) ( 880 176 16 ) ( 880 208 16 ) ORIGIN [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 912 176 16 ) ( 912 176 80 ) ( 912 208 80 ) ORIGIN [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 880 208 80 ) ( 880 208 16 ) ( 912 208 16 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1 
+( 880 176 16 ) ( 880 176 80 ) ( 912 176 80 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 976 280 128 ) ( 976 104 128 ) ( 816 104 128 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 -8 ] 0 1 1 
+( 976 104 -32 ) ( 976 280 -32 ) ( 816 280 -32 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 -8 ] 0 1 1 
+( 816 104 128 ) ( 816 104 -32 ) ( 816 280 -32 ) AAATRIGGER [ 0 1 0 8 ] [ 0 0 -1 -16 ] 0 1 1 
+( 976 104 -32 ) ( 976 104 128 ) ( 976 280 128 ) AAATRIGGER [ 0 1 0 8 ] [ 0 0 -1 -16 ] 0 1 1 
+( 816 280 128 ) ( 816 280 -32 ) ( 976 280 -32 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+( 816 104 -32 ) ( 816 104 128 ) ( 976 104 128 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 -16 ] 0 1 1 
+}
+}
+{
+"classname" "info_teleport_destination"
+"angles" "0 180 0"
+"teleport_cooldown" "1"
+"targetname" "teletarget"
+"origin" "896 -192 48"
+}
+{
+"classname" "func_pushable"
+"health" "1"
+"weapon" "1"
+"friction" "50"
+"buoyancy" "20"
+"rendercolor" "0 0 0"
+{
+( 400 -208 80 ) ( 432 -208 80 ) ( 432 -240 80 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 400 -240 -16 ) ( 432 -240 -16 ) ( 432 -208 -16 ) ORIGIN [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 400 -208 80 ) ( 400 -240 80 ) ( 400 -240 -16 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 -208 -16 ) ( 432 -240 -16 ) ( 432 -240 80 ) ORIGIN [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 -208 80 ) ( 400 -208 80 ) ( 400 -208 -16 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 -240 -16 ) ( 400 -240 -16 ) ( 400 -240 80 ) ORIGIN [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 384 -192 64 ) ( 448 -192 64 ) ( 448 -256 64 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 -1 0 48 ] 0 1 1 
+( 384 -256 0 ) ( 448 -256 0 ) ( 448 -192 0 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 -1 0 48 ] 0 1 1 
+( 384 -192 64 ) ( 384 -256 64 ) ( 384 -256 0 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -128 ] 0 1 1 
+( 448 -192 0 ) ( 448 -256 0 ) ( 448 -256 64 ) BABTECH6_2 [ 0 1 0 -48 ] [ 0 0 -1 -128 ] 0 1 1 
+( 448 -192 64 ) ( 384 -192 64 ) ( 384 -192 0 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 0 -1 -128 ] 0 1 1 
+( 448 -256 0 ) ( 384 -256 0 ) ( 384 -256 64 ) BABTECH6_2 [ 1 0 0 -32 ] [ 0 0 -1 -128 ] 0 1 1 
+}
+}
+{
+"classname" "info_teleport_destination"
+"angles" "0 180 0"
+"teleport_cooldown" "1"
+"targetname" "teletarget"
+"origin" "896 0 48"
+}
+{
+"classname" "func_wall"
+"rendercolor" "0 0 0"
+{
+( 704 296 128 ) ( 1056 296 128 ) ( 1056 280 128 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 280 -32 ) ( 1056 280 -32 ) ( 1056 296 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 296 128 ) ( 704 280 128 ) ( 704 280 -32 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 296 -32 ) ( 1056 280 -32 ) ( 1056 280 128 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 296 128 ) ( 704 296 128 ) ( 704 296 -32 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 280 -32 ) ( 704 280 -32 ) ( 704 280 128 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 704 104 128 ) ( 1056 104 128 ) ( 1056 88 128 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 88 -32 ) ( 1056 88 -32 ) ( 1056 104 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 104 128 ) ( 704 88 128 ) ( 704 88 -32 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 104 -32 ) ( 1056 88 -32 ) ( 1056 88 128 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 104 128 ) ( 704 104 128 ) ( 704 104 -32 ) BABTECH_WALL03 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 88 -32 ) ( 704 88 -32 ) ( 704 88 128 ) BARREL2A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 704 -88 128 ) ( 1056 -88 128 ) ( 1056 -104 128 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 -104 -32 ) ( 1056 -104 -32 ) ( 1056 -88 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1 
+( 704 -88 128 ) ( 704 -104 128 ) ( 704 -104 -32 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -88 -32 ) ( 1056 -104 -32 ) ( 1056 -104 128 ) NULL [ 0 1 0 8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -88 128 ) ( 704 -88 128 ) ( 704 -88 -32 ) BARREL2A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -104 -32 ) ( 704 -104 -32 ) ( 704 -104 128 ) BABTECH_BORDL52 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 704 -280 128 ) ( 1056 -280 128 ) ( 1056 -296 128 ) NULL [ 1 0 0 0 ] [ 0 -1 0 8 ] 0 1 1 
+( 704 -296 -32 ) ( 1056 -296 -32 ) ( 1056 -280 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 8 ] 0 1 1 
+( 704 -280 128 ) ( 704 -296 128 ) ( 704 -296 -32 ) NULL [ 0 1 0 -8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -280 -32 ) ( 1056 -296 -32 ) ( 1056 -296 128 ) NULL [ 0 1 0 -8 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -280 128 ) ( 704 -280 128 ) ( 704 -280 -32 ) BABTECH_BORDL52 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 1056 -296 -32 ) ( 704 -296 -32 ) ( 704 -296 128 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "trigger_condition"
+"target" "test_player1"
+"skin" "0"
+"health" "1"
+"m_iszValueName" "groundentity"
+"m_iszCheckValue" "lolvehicle"
+"netname" "aufauto"
+"message" "nichtaufauto"
+"m_flDelay" "1"
+"origin" "-192 64 128"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"targetname" "aufauto"
+"message" "aufauto"
+"x" "-1"
+"y" "-1"
+"color" "255 0 0"
+"color2" "255 0 0"
+"holdtime" "1"
+"fxtime" "0.25"
+"channel" "1"
+"origin" "-256 64 128"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"targetname" "nichtaufauto"
+"message" "nichtaufauto"
+"x" "-1"
+"y" "-1"
+"color" "255 0 0"
+"color2" "255 0 0"
+"holdtime" "1"
+"fxtime" "0.25"
+"channel" "1"
+"origin" "-128 64 128"
+}

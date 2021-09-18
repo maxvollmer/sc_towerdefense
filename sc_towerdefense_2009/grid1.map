@@ -1,0 +1,3199 @@
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A1"
+"targetname" "loltest_A1_A1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A2"
+"targetname" "loltest_A1_A2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A3"
+"targetname" "loltest_A1_A3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A4"
+"targetname" "loltest_A1_A4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A5"
+"targetname" "loltest_A1_A5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A6"
+"targetname" "loltest_A1_A6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A7"
+"targetname" "loltest_A1_A7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_A8"
+"targetname" "loltest_A1_A8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B1"
+"targetname" "loltest_A1_B1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B2"
+"targetname" "loltest_A1_B2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B3"
+"targetname" "loltest_A1_B3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B4"
+"targetname" "loltest_A1_B4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B5"
+"targetname" "loltest_A1_B5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B6"
+"targetname" "loltest_A1_B6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B7"
+"targetname" "loltest_A1_B7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_B8"
+"targetname" "loltest_A1_B8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C1"
+"targetname" "loltest_A1_C1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C2"
+"targetname" "loltest_A1_C2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C3"
+"targetname" "loltest_A1_C3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C4"
+"targetname" "loltest_A1_C4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C5"
+"targetname" "loltest_A1_C5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C6"
+"targetname" "loltest_A1_C6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C7"
+"targetname" "loltest_A1_C7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_C8"
+"targetname" "loltest_A1_C8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D1"
+"targetname" "loltest_A1_D1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D2"
+"targetname" "loltest_A1_D2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D3"
+"targetname" "loltest_A1_D3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D4"
+"targetname" "loltest_A1_D4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D5"
+"targetname" "loltest_A1_D5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D6"
+"targetname" "loltest_A1_D6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D7"
+"targetname" "loltest_A1_D7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_D8"
+"targetname" "loltest_A1_D8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E1"
+"targetname" "loltest_A1_E1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E2"
+"targetname" "loltest_A1_E2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E3"
+"targetname" "loltest_A1_E3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E4"
+"targetname" "loltest_A1_E4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E5"
+"targetname" "loltest_A1_E5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E6"
+"targetname" "loltest_A1_E6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E7"
+"targetname" "loltest_A1_E7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_E8"
+"targetname" "loltest_A1_E8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F1"
+"targetname" "loltest_A1_F1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F2"
+"targetname" "loltest_A1_F2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F3"
+"targetname" "loltest_A1_F3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F4"
+"targetname" "loltest_A1_F4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F5"
+"targetname" "loltest_A1_F5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F6"
+"targetname" "loltest_A1_F6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F7"
+"targetname" "loltest_A1_F7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_F8"
+"targetname" "loltest_A1_F8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G1"
+"targetname" "loltest_A1_G1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G2"
+"targetname" "loltest_A1_G2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G3"
+"targetname" "loltest_A1_G3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G4"
+"targetname" "loltest_A1_G4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G5"
+"targetname" "loltest_A1_G5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G6"
+"targetname" "loltest_A1_G6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G7"
+"targetname" "loltest_A1_G7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_G8"
+"targetname" "loltest_A1_G8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H1"
+"targetname" "loltest_A1_H1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H2"
+"targetname" "loltest_A1_H2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H3"
+"targetname" "loltest_A1_H3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H4"
+"targetname" "loltest_A1_H4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H5"
+"targetname" "loltest_A1_H5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H6"
+"targetname" "loltest_A1_H6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H7"
+"targetname" "loltest_A1_H7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_H8"
+"targetname" "loltest_A1_H8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I1"
+"targetname" "loltest_A1_I1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I2"
+"targetname" "loltest_A1_I2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I3"
+"targetname" "loltest_A1_I3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I4"
+"targetname" "loltest_A1_I4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I5"
+"targetname" "loltest_A1_I5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I6"
+"targetname" "loltest_A1_I6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I7"
+"targetname" "loltest_A1_I7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_I8"
+"targetname" "loltest_A1_I8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "10 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J1"
+"targetname" "loltest_A1_J1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "20 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J2"
+"targetname" "loltest_A1_J2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "31 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J3"
+"targetname" "loltest_A1_J3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "41 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J4"
+"targetname" "loltest_A1_J4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "52 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J5"
+"targetname" "loltest_A1_J5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "62 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J6"
+"targetname" "loltest_A1_J6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "73 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J7"
+"targetname" "loltest_A1_J7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "83 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A1_J8"
+"targetname" "loltest_A1_J8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A1"
+"targetname" "loltest_A2_A1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A2"
+"targetname" "loltest_A2_A2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A3"
+"targetname" "loltest_A2_A3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A4"
+"targetname" "loltest_A2_A4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A5"
+"targetname" "loltest_A2_A5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A6"
+"targetname" "loltest_A2_A6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A7"
+"targetname" "loltest_A2_A7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_A8"
+"targetname" "loltest_A2_A8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B1"
+"targetname" "loltest_A2_B1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B2"
+"targetname" "loltest_A2_B2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B3"
+"targetname" "loltest_A2_B3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B4"
+"targetname" "loltest_A2_B4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B5"
+"targetname" "loltest_A2_B5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B6"
+"targetname" "loltest_A2_B6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B7"
+"targetname" "loltest_A2_B7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_B8"
+"targetname" "loltest_A2_B8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C1"
+"targetname" "loltest_A2_C1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C2"
+"targetname" "loltest_A2_C2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C3"
+"targetname" "loltest_A2_C3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C4"
+"targetname" "loltest_A2_C4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C5"
+"targetname" "loltest_A2_C5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C6"
+"targetname" "loltest_A2_C6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C7"
+"targetname" "loltest_A2_C7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_C8"
+"targetname" "loltest_A2_C8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D1"
+"targetname" "loltest_A2_D1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D2"
+"targetname" "loltest_A2_D2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D3"
+"targetname" "loltest_A2_D3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D4"
+"targetname" "loltest_A2_D4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D5"
+"targetname" "loltest_A2_D5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D6"
+"targetname" "loltest_A2_D6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D7"
+"targetname" "loltest_A2_D7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_D8"
+"targetname" "loltest_A2_D8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E1"
+"targetname" "loltest_A2_E1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E2"
+"targetname" "loltest_A2_E2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E3"
+"targetname" "loltest_A2_E3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E4"
+"targetname" "loltest_A2_E4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E5"
+"targetname" "loltest_A2_E5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E6"
+"targetname" "loltest_A2_E6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E7"
+"targetname" "loltest_A2_E7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_E8"
+"targetname" "loltest_A2_E8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F1"
+"targetname" "loltest_A2_F1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F2"
+"targetname" "loltest_A2_F2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F3"
+"targetname" "loltest_A2_F3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F4"
+"targetname" "loltest_A2_F4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F5"
+"targetname" "loltest_A2_F5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F6"
+"targetname" "loltest_A2_F6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F7"
+"targetname" "loltest_A2_F7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_F8"
+"targetname" "loltest_A2_F8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G1"
+"targetname" "loltest_A2_G1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G2"
+"targetname" "loltest_A2_G2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G3"
+"targetname" "loltest_A2_G3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G4"
+"targetname" "loltest_A2_G4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G5"
+"targetname" "loltest_A2_G5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G6"
+"targetname" "loltest_A2_G6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G7"
+"targetname" "loltest_A2_G7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_G8"
+"targetname" "loltest_A2_G8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H1"
+"targetname" "loltest_A2_H1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H2"
+"targetname" "loltest_A2_H2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H3"
+"targetname" "loltest_A2_H3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H4"
+"targetname" "loltest_A2_H4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H5"
+"targetname" "loltest_A2_H5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H6"
+"targetname" "loltest_A2_H6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H7"
+"targetname" "loltest_A2_H7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_H8"
+"targetname" "loltest_A2_H8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I1"
+"targetname" "loltest_A2_I1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I2"
+"targetname" "loltest_A2_I2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I3"
+"targetname" "loltest_A2_I3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I4"
+"targetname" "loltest_A2_I4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I5"
+"targetname" "loltest_A2_I5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I6"
+"targetname" "loltest_A2_I6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I7"
+"targetname" "loltest_A2_I7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_I8"
+"targetname" "loltest_A2_I8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "95 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J1"
+"targetname" "loltest_A2_J1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "105 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J2"
+"targetname" "loltest_A2_J2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "116 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J3"
+"targetname" "loltest_A2_J3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "126 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J4"
+"targetname" "loltest_A2_J4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "137 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J5"
+"targetname" "loltest_A2_J5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "147 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J6"
+"targetname" "loltest_A2_J6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "158 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J7"
+"targetname" "loltest_A2_J7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "168 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A2_J8"
+"targetname" "loltest_A2_J8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A1"
+"targetname" "loltest_A3_A1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A2"
+"targetname" "loltest_A3_A2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A3"
+"targetname" "loltest_A3_A3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A4"
+"targetname" "loltest_A3_A4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A5"
+"targetname" "loltest_A3_A5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A6"
+"targetname" "loltest_A3_A6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A7"
+"targetname" "loltest_A3_A7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_A8"
+"targetname" "loltest_A3_A8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B1"
+"targetname" "loltest_A3_B1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B2"
+"targetname" "loltest_A3_B2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B3"
+"targetname" "loltest_A3_B3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B4"
+"targetname" "loltest_A3_B4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B5"
+"targetname" "loltest_A3_B5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B6"
+"targetname" "loltest_A3_B6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B7"
+"targetname" "loltest_A3_B7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_B8"
+"targetname" "loltest_A3_B8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C1"
+"targetname" "loltest_A3_C1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C2"
+"targetname" "loltest_A3_C2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C3"
+"targetname" "loltest_A3_C3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C4"
+"targetname" "loltest_A3_C4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C5"
+"targetname" "loltest_A3_C5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C6"
+"targetname" "loltest_A3_C6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C7"
+"targetname" "loltest_A3_C7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_C8"
+"targetname" "loltest_A3_C8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D1"
+"targetname" "loltest_A3_D1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D2"
+"targetname" "loltest_A3_D2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D3"
+"targetname" "loltest_A3_D3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D4"
+"targetname" "loltest_A3_D4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D5"
+"targetname" "loltest_A3_D5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D6"
+"targetname" "loltest_A3_D6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D7"
+"targetname" "loltest_A3_D7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_D8"
+"targetname" "loltest_A3_D8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E1"
+"targetname" "loltest_A3_E1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E2"
+"targetname" "loltest_A3_E2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E3"
+"targetname" "loltest_A3_E3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E4"
+"targetname" "loltest_A3_E4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E5"
+"targetname" "loltest_A3_E5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E6"
+"targetname" "loltest_A3_E6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E7"
+"targetname" "loltest_A3_E7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_E8"
+"targetname" "loltest_A3_E8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F1"
+"targetname" "loltest_A3_F1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F2"
+"targetname" "loltest_A3_F2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F3"
+"targetname" "loltest_A3_F3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F4"
+"targetname" "loltest_A3_F4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F5"
+"targetname" "loltest_A3_F5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F6"
+"targetname" "loltest_A3_F6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F7"
+"targetname" "loltest_A3_F7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_F8"
+"targetname" "loltest_A3_F8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G1"
+"targetname" "loltest_A3_G1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G2"
+"targetname" "loltest_A3_G2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G3"
+"targetname" "loltest_A3_G3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G4"
+"targetname" "loltest_A3_G4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G5"
+"targetname" "loltest_A3_G5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G6"
+"targetname" "loltest_A3_G6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G7"
+"targetname" "loltest_A3_G7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_G8"
+"targetname" "loltest_A3_G8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H1"
+"targetname" "loltest_A3_H1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H2"
+"targetname" "loltest_A3_H2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H3"
+"targetname" "loltest_A3_H3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H4"
+"targetname" "loltest_A3_H4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H5"
+"targetname" "loltest_A3_H5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H6"
+"targetname" "loltest_A3_H6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H7"
+"targetname" "loltest_A3_H7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_H8"
+"targetname" "loltest_A3_H8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I1"
+"targetname" "loltest_A3_I1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I2"
+"targetname" "loltest_A3_I2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I3"
+"targetname" "loltest_A3_I3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I4"
+"targetname" "loltest_A3_I4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I5"
+"targetname" "loltest_A3_I5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I6"
+"targetname" "loltest_A3_I6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I7"
+"targetname" "loltest_A3_I7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_I8"
+"targetname" "loltest_A3_I8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "180 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J1"
+"targetname" "loltest_A3_J1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "190 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J2"
+"targetname" "loltest_A3_J2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "201 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J3"
+"targetname" "loltest_A3_J3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "211 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J4"
+"targetname" "loltest_A3_J4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "222 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J5"
+"targetname" "loltest_A3_J5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "232 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J6"
+"targetname" "loltest_A3_J6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "243 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J7"
+"targetname" "loltest_A3_J7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "253 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A3_J8"
+"targetname" "loltest_A3_J8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A1"
+"targetname" "loltest_A4_A1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A2"
+"targetname" "loltest_A4_A2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A3"
+"targetname" "loltest_A4_A3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A4"
+"targetname" "loltest_A4_A4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A5"
+"targetname" "loltest_A4_A5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A6"
+"targetname" "loltest_A4_A6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A7"
+"targetname" "loltest_A4_A7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 6 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_A8"
+"targetname" "loltest_A4_A8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B1"
+"targetname" "loltest_A4_B1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B2"
+"targetname" "loltest_A4_B2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B3"
+"targetname" "loltest_A4_B3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B4"
+"targetname" "loltest_A4_B4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B5"
+"targetname" "loltest_A4_B5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B6"
+"targetname" "loltest_A4_B6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B7"
+"targetname" "loltest_A4_B7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 17 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_B8"
+"targetname" "loltest_A4_B8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C1"
+"targetname" "loltest_A4_C1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C2"
+"targetname" "loltest_A4_C2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C3"
+"targetname" "loltest_A4_C3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C4"
+"targetname" "loltest_A4_C4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C5"
+"targetname" "loltest_A4_C5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C6"
+"targetname" "loltest_A4_C6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C7"
+"targetname" "loltest_A4_C7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 27 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_C8"
+"targetname" "loltest_A4_C8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D1"
+"targetname" "loltest_A4_D1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D2"
+"targetname" "loltest_A4_D2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D3"
+"targetname" "loltest_A4_D3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D4"
+"targetname" "loltest_A4_D4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D5"
+"targetname" "loltest_A4_D5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D6"
+"targetname" "loltest_A4_D6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D7"
+"targetname" "loltest_A4_D7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 38 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_D8"
+"targetname" "loltest_A4_D8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E1"
+"targetname" "loltest_A4_E1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E2"
+"targetname" "loltest_A4_E2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E3"
+"targetname" "loltest_A4_E3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E4"
+"targetname" "loltest_A4_E4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E5"
+"targetname" "loltest_A4_E5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E6"
+"targetname" "loltest_A4_E6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E7"
+"targetname" "loltest_A4_E7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 48 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_E8"
+"targetname" "loltest_A4_E8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F1"
+"targetname" "loltest_A4_F1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F2"
+"targetname" "loltest_A4_F2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F3"
+"targetname" "loltest_A4_F3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F4"
+"targetname" "loltest_A4_F4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F5"
+"targetname" "loltest_A4_F5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F6"
+"targetname" "loltest_A4_F6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F7"
+"targetname" "loltest_A4_F7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 59 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_F8"
+"targetname" "loltest_A4_F8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G1"
+"targetname" "loltest_A4_G1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G2"
+"targetname" "loltest_A4_G2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G3"
+"targetname" "loltest_A4_G3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G4"
+"targetname" "loltest_A4_G4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G5"
+"targetname" "loltest_A4_G5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G6"
+"targetname" "loltest_A4_G6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G7"
+"targetname" "loltest_A4_G7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 69 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_G8"
+"targetname" "loltest_A4_G8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H1"
+"targetname" "loltest_A4_H1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H2"
+"targetname" "loltest_A4_H2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H3"
+"targetname" "loltest_A4_H3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H4"
+"targetname" "loltest_A4_H4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H5"
+"targetname" "loltest_A4_H5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H6"
+"targetname" "loltest_A4_H6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H7"
+"targetname" "loltest_A4_H7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 80 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_H8"
+"targetname" "loltest_A4_H8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I1"
+"targetname" "loltest_A4_I1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I2"
+"targetname" "loltest_A4_I2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I3"
+"targetname" "loltest_A4_I3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I4"
+"targetname" "loltest_A4_I4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I5"
+"targetname" "loltest_A4_I5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I6"
+"targetname" "loltest_A4_I6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I7"
+"targetname" "loltest_A4_I7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 90 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_I8"
+"targetname" "loltest_A4_I8_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "265 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J1"
+"targetname" "loltest_A4_J1_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "275 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J2"
+"targetname" "loltest_A4_J2_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "286 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J3"
+"targetname" "loltest_A4_J3_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "296 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J4"
+"targetname" "loltest_A4_J4_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "307 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J5"
+"targetname" "loltest_A4_J5_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "317 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J6"
+"targetname" "loltest_A4_J6_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "328 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J7"
+"targetname" "loltest_A4_J7_target"
+}
+
+{
+"classname" "phlt_copy_brush"
+"angles" "0 0 0"
+"origin" "338 100 0"
+"phlt_cpm_class" "trigger_multiple"
+"phlt_cpm_target" "loltest_A1_A1_target"
+"target" "loltest_A4_J8"
+"targetname" "loltest_A4_J8_target"
+}

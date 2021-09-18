@@ -1,0 +1,4399 @@
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_A8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_A8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_B8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_B8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_C8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_C8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_D8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_D8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_E8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_E8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_F8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_F8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_G8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_G8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_H8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_H8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_I8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_I8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J1"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J2"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J3"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J4"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J5"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J6"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J7"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B1_J8"
+"target" "loltest_platform"
+"copypointer" "loltest_B1_J8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_A8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_A8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_B8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_B8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_C8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_C8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_D8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_D8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_E8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_E8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_F8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_F8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_G8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_G8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_H8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_H8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_I8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_I8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J1"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J2"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J3"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J4"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J5"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J6"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J7"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B2_J8"
+"target" "loltest_platform"
+"copypointer" "loltest_B2_J8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_A8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_A8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_B8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_B8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_C8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_C8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_D8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_D8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_E8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_E8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_F8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_F8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_G8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_G8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_H8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_H8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_I8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_I8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J1"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J2"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J3"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J4"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J5"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J6"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J7"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B3_J8"
+"target" "loltest_platform"
+"copypointer" "loltest_B3_J8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_A8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_A8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_B8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_B8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_C8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_C8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_D8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_D8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_E8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_E8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_F8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_F8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_G8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_G8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_H8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_H8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_I8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_I8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J1"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J2"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J3"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J4"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J5"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J6"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J7"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B4_J8"
+"target" "loltest_platform"
+"copypointer" "loltest_B4_J8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_A8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_A8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_B8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_B8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_C8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_C8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_D8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_D8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_E8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_E8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_F8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_F8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_G8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_G8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_H8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_H8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_I8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_I8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J1"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J1_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J2"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J2_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J3"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J3_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J4"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J4_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J5"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J5_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J6"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J6_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J7"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J7_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}
+
+{
+"classname" "trigger_setorigin"
+"offset" "0 0 0"
+"targetname" "loltest_B5_J8"
+"target" "loltest_platform"
+"copypointer" "loltest_B5_J8_target"
+"invert_x" "0"
+"invert_y" "0"
+"invert_z" "0"
+}

@@ -1,0 +1,109 @@
+
+<div id="LOL"></div>
+
+<script type="text/javascript">
+
+var lol = document.getElementById("LOL");
+
+//for (var x = 0; x < 5; x++)
+var x = 1;
+{
+  var letter1 = "";
+  switch (x)
+  {
+    case 0:
+      letter1 = "A";
+      break;
+    case 1:
+      letter1 = "B";
+      break;
+    case 2:
+      letter1 = "C";
+      break;
+    case 3:
+      letter1 = "D";
+      break;
+    case 4:
+      letter1 = "E";
+      break;
+  }
+  
+  for (var y = 1; y <= 4; y++)
+  {
+    for (var i = 0; i < 10; i++)
+    {
+      var letter2 = "";
+      switch (i)
+      {
+        case 0:
+          letter2 = "A";
+          break;
+        case 1:
+          letter2 = "B";
+          break;
+        case 2:
+          letter2 = "C";
+          break;
+        case 3:
+          letter2 = "D";
+          break;
+        case 4:
+          letter2 = "E";
+          break;
+        case 5:
+          letter2 = "F";
+          break;
+        case 6:
+          letter2 = "G";
+          break;
+        case 7:
+          letter2 = "H";
+          break;
+        case 8:
+          letter2 = "I";
+          break;
+        case 9:
+          letter2 = "J";
+          break;
+      }
+      
+      for (var j = 1; j <= 8; j++)
+      {
+        var origin_y = (106*x) + ((i+1)*10);
+        var origin_x = (85*(y-1)) + (j*10);
+        
+        if (j > 2)
+          origin_x += 1;
+        if (j > 4)
+          origin_x += 1;
+        if (j > 6)
+          origin_x += 1;
+        
+        if (i < 7)
+          origin_y -= 1;
+        if (i < 5)
+          origin_y -= 1;
+        if (i < 3)
+          origin_y -= 1;
+        if (i < 1)
+          origin_y -= 1;
+        
+        var current_element = letter1+(y)+"_"+letter2+(j);
+        
+        var output = "{<br>";
+        output += "\"classname\" \"phlt_copy_brush\"<br>";
+        output += "\"angles\" \"0 0 0\"<br>";
+        output += "\"origin\" \""+origin_x+" "+origin_y+" 0\"<br>";
+        output += "\"phlt_cpm_class\" \"trigger_multiple\"<br>";
+        output += "\"phlt_cpm_target\" \"loltest_A1_A1_target\"<br>";
+        output += "\"target\" \"loltest_"+current_element+"\"<br>";
+        output += "\"targetname\" \"loltest_"+current_element+"_target\"<br>";
+        output += "}<br>";
+        
+        lol.innerHTML += output+"<br>";
+      }
+    }
+  }
+}
+
+</script>

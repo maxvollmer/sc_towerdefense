@@ -1,0 +1,99 @@
+
+<div id="LOL1"></div>
+<div id="LOL2"></div>
+<div id="LOL3"></div>
+<div id="LOL4"></div>
+
+<script type="text/javascript">
+
+var lol1 = document.getElementById("LOL1");
+var lol2 = document.getElementById("LOL2");
+var lol3 = document.getElementById("LOL3");
+var lol4 = document.getElementById("LOL4");
+
+//for (var x = 0; x < 4; x++)
+var x = 3;
+{
+  var letter1 = "";
+  var lol = null;
+  switch (x)
+  {
+    case 0:
+      letter1 = "A";
+      lol = lol1;
+      break;
+    case 1:
+      letter1 = "B";
+      lol = lol2;
+      break;
+    case 2:
+      letter1 = "C";
+      lol = lol3;
+      break;
+    case 3:
+      letter1 = "D";
+      lol = lol4;
+      break;
+  }
+  
+  for (var y = 1; y <= 5; y++)
+  {
+    for (var i = 0; i < 10; i++)
+    {
+      var letter2 = "";
+      switch (i)
+      {
+        case 0:
+          letter2 = "A";
+          break;
+        case 1:
+          letter2 = "B";
+          break;
+        case 2:
+          letter2 = "C";
+          break;
+        case 3:
+          letter2 = "D";
+          break;
+        case 4:
+          letter2 = "E";
+          break;
+        case 5:
+          letter2 = "F";
+          break;
+        case 6:
+          letter2 = "G";
+          break;
+        case 7:
+          letter2 = "H";
+          break;
+        case 8:
+          letter2 = "I";
+          break;
+        case 9:
+          letter2 = "J";
+          break;
+      }
+      
+      for (var j = 1; j <= 8; j++)
+      {
+        var current_element = letter1+(y)+"_"+letter2+(j);
+        
+        var output = "{<br>";
+        output += "\"classname\" \"trigger_setorigin\"<br>";
+        output += "\"offset\" \"0 0 0\"<br>";
+        output += "\"targetname\" \"loltest_"+current_element+"\"<br>";
+        output += "\"target\" \"loltest_platform\"<br>";
+        output += "\"copypointer\" \"loltest_"+current_element+"_target\"<br>";
+        output += "\"invert_x\" \"0\"<br>";
+        output += "\"invert_y\" \"0\"<br>";
+        output += "\"invert_z\" \"0\"<br>";
+        output += "}<br>";
+        
+        lol.innerHTML += output+"<br>";
+      }
+    }
+  }
+}
+
+</script>

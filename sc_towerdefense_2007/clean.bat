@@ -1,0 +1,9 @@
+del *.p0
+del *.p1
+del *.p2
+del *.p3
+del *.lin
+del *.pts
+del *.prt
+del *.wic
+del *.err

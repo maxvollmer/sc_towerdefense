@@ -1,0 +1,430 @@
+{
+"classname" "worldspawn"
+"sounds" "1"
+"MaxRange" "4096"
+"mapversion" "220"
+"wad" "\t\zhlt.wad;\t\decals.wad;\t\halflife.wad;\t\liquids.wad;\t\xeno.wad;\maps\towerdefence\sc_td.wad"
+{
+( -528 -320 464 ) ( -528 464 464 ) ( 464 464 464 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -528 464 432 ) ( -528 464 464 ) ( -528 -320 464 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 464 -320 432 ) ( 464 -320 464 ) ( 464 464 464 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 464 464 432 ) ( 464 464 464 ) ( -528 464 464 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 -320 432 ) ( -528 -320 464 ) ( 464 -320 464 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 464 432 ) ( -528 -320 432 ) ( 464 -320 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -528 464 -304 ) ( -528 -320 -304 ) ( 464 -320 -304 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -528 -320 -272 ) ( -528 -320 -304 ) ( -528 464 -304 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 464 464 -272 ) ( 464 464 -304 ) ( 464 -320 -304 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 464 -272 ) ( -528 464 -304 ) ( 464 464 -304 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 464 -320 -272 ) ( 464 -320 -304 ) ( -528 -320 -304 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 -320 -272 ) ( -528 464 -272 ) ( 464 464 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -528 -320 432 ) ( -528 -320 -272 ) ( -528 464 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 464 432 ) ( -528 464 -272 ) ( -496 464 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -496 -320 -272 ) ( -528 -320 -272 ) ( -528 -320 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -528 -320 432 ) ( -528 464 432 ) ( -496 464 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -528 464 -272 ) ( -528 -320 -272 ) ( -496 -320 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -496 464 432 ) ( -496 464 -272 ) ( -496 -320 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 464 464 432 ) ( 464 464 -272 ) ( 464 -320 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 464 -272 ) ( 464 464 -272 ) ( 464 464 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 464 -320 432 ) ( 464 -320 -272 ) ( 432 -320 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 464 432 ) ( 464 464 432 ) ( 464 -320 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 432 -320 -272 ) ( 464 -320 -272 ) ( 464 464 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 432 -320 432 ) ( 432 -320 -272 ) ( 432 464 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -496 464 -272 ) ( 432 464 -272 ) ( 432 464 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -496 432 432 ) ( -496 464 432 ) ( 432 464 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 432 464 -272 ) ( -496 464 -272 ) ( -496 432 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -496 432 -272 ) ( -496 464 -272 ) ( -496 464 432 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 464 432 ) ( 432 464 -272 ) ( 432 432 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 432 -272 ) ( -496 432 -272 ) ( -496 432 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 432 -320 -272 ) ( -496 -320 -272 ) ( -496 -320 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 -320 432 ) ( -496 -320 432 ) ( -496 -288 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -496 -288 -272 ) ( -496 -320 -272 ) ( 432 -320 -272 ) WET_WALL06 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -496 -320 432 ) ( -496 -320 -272 ) ( -496 -288 -272 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 432 -288 -272 ) ( 432 -320 -272 ) ( 432 -320 432 ) WET_WALL06 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -496 -288 -272 ) ( 432 -288 -272 ) ( 432 -288 432 ) WET_WALL06 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"origin" "16 64 -208"
+}
+{
+"classname" "multi_manager"
+"targetname" "mm1"
+"test1" "1"
+"test2" "2"
+"test3" "3"
+"test4" "4"
+"test5" "5"
+"test6" "6"
+"test7" "7"
+"test8" "8"
+"test9" "9"
+"test10" "10"
+"test11" "11"
+"test12" "12"
+"test13" "13"
+"test14" "14"
+"test15" "15"
+"test16" "16"
+"test17" "17"
+"test18" "18"
+"test19" "19"
+"test20" "20"
+"test21" "21"
+"test22" "22"
+"test23" "23"
+"test24" "24"
+"origin" "-256 80 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test1"
+"message" "1111"
+"origin" "80 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test2"
+"message" "222222"
+"origin" "112 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test3"
+"message" "3333333"
+"origin" "144 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test4"
+"message" "4444444"
+"origin" "176 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test5"
+"message" "5555555"
+"origin" "208 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test6"
+"message" "6666666"
+"origin" "240 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test7"
+"message" "7777777"
+"origin" "272 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test8"
+"message" "8888888"
+"origin" "304 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test9"
+"message" "99999999"
+"origin" "336 208 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test10"
+"message" "101010"
+"origin" "80 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test11"
+"message" "111111"
+"origin" "112 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test12"
+"message" "121212"
+"origin" "144 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test13"
+"message" "131313"
+"origin" "176 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test14"
+"message" "141414"
+"origin" "208 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test15"
+"message" "151515"
+"origin" "240 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test16"
+"message" "161616"
+"origin" "272 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test17"
+"message" "171717"
+"origin" "304 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test18"
+"message" "181818"
+"origin" "336 176 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test19"
+"message" "191919"
+"origin" "80 144 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test20"
+"message" "202020"
+"origin" "112 144 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test21"
+"message" "212121"
+"origin" "144 144 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test22"
+"message" "222222"
+"origin" "176 144 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test23"
+"message" "232323"
+"origin" "208 144 0"
+}
+{
+"classname" "game_text"
+"spawnflags" "1"
+"x" "-1"
+"y" "-1"
+"color" "100 100 100"
+"color2" "240 110 0"
+"holdtime" "0.5"
+"fxtime" "0.25"
+"channel" "1"
+"targetname" "test24"
+"message" "242424"
+"origin" "240 144 0"
+}
+{
+"classname" "trigger_auto"
+"target" "mm1"
+"origin" "-256 0 0"
+}

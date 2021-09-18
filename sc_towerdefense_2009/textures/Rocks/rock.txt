@@ -1,0 +1,14 @@
+Evile Dick's Valve rock conversion.WAD V1.0 1999
+
+This wad contains the main Valve rock, gravel, and path textures, recoloured to green, blue, yellow and grey.
+They are intended either as a change from the normal Valve red rock textures, or to assis in marking out team areas for TFC maps.
+
+If you do like them and use them, please mention me in your readme or include this text file with your distribution .ZIP. If I know that my work is appreciated I'm far more likely to do more stuff.
+
+
+Copyright Digital-e technologies 1999
+
+This Wad may only be distributed as part of a half-life map installation kit. It may not distributed in isolation via any electronic or physical means without the authors prior permission.
+
+
+EvileDick@digital-e.demon.co.uk

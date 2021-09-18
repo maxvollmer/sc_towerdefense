@@ -1,0 +1,41 @@
+monster: wave_monster_x
+========
+
+welle1-4
+2
+4
+
+welle6-9
+10
+25
+50
+
+welle11-14
+100
+200
+400
+
+welle16-19
+1000
+1250 (1500)
+1500 (2500)
+
+bosse: monster_bossx
+======
+welle5: 100
+welle10: 1000
+welle15: 3000
+welle20: 10000
+
+welle21: 1000 + 5000
+welle22: 5000 + 15000
+welle23: 1000 + 5000 + 10000
+
+gold:
+=====
+
+1-10: 1gold
+11-20: 2gold
+16-25: 4gold
+
+50 gold

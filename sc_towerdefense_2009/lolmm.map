@@ -1,0 +1,49 @@
+{
+"classname" "worldspawn"
+"classname" "worldspawn"
+"sounds" "1"
+"MaxRange" "4096"
+"scversion" "401"
+"mapversion" "220"
+"mapversion" "220"
+"wad" "\spiele\valve\valve\halflife.wad;\work\hl\towerdefence\sc_towerdefense_2009\zhlt.wad;\work\hl\towerdefence\sc_towerdefense_2009\sc_towerdefense.wad;\spiele\valve\valve\decals.wad"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "4"
+"wait" "0.1"
+"target" "wave1_creep5_slow"
+"targetname" "wave1_creep5_slow_checker"
+{
+( 544 1536 832 ) ( 544 1408 832 ) ( 384 1408 832 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 0.5 0.5 
+( 544 1408 704 ) ( 544 1536 704 ) ( 384 1536 704 ) AAATRIGGER [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 0.5 0.5 
+( 384 1408 832 ) ( 384 1408 704 ) ( 384 1536 704 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 544 1408 704 ) ( 544 1408 832 ) ( 544 1536 832 ) AAATRIGGER [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 384 1536 832 ) ( 384 1536 704 ) ( 544 1536 704 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 384 1408 704 ) ( 384 1408 832 ) ( 544 1408 832 ) AAATRIGGER [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+}
+{
+( 464 1488 784 ) ( 496 1488 784 ) ( 496 1456 784 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 0.5 0.5 
+( 464 1456 752 ) ( 496 1456 752 ) ( 496 1488 752 ) ORIGIN [ 1 0 0 16 ] [ 0 -1 0 16 ] 0 0.5 0.5 
+( 464 1488 784 ) ( 464 1456 784 ) ( 464 1456 752 ) ORIGIN [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 496 1488 752 ) ( 496 1456 752 ) ( 496 1456 784 ) ORIGIN [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 496 1488 784 ) ( 464 1488 784 ) ( 464 1488 752 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+( 496 1456 752 ) ( 464 1456 752 ) ( 464 1456 784 ) ORIGIN [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 0.5 0.5 
+}
+}
+{
+"classname" "trigger_setorigin"
+"spawnflags" "385"
+"offset" "0 0 0"
+"targetname" "wave1_kleber"
+"target" "wave1_creep5_slow_checker"
+"copypointer" "wave1_creep5"
+"origin" "576 1472 1456"
+}
+{
+"classname" "multi_manager"
+"targetname" "wave1_creep5_slow"
+"wave1_creep5" "0"
+"wave1_creep5#1" "0.1"
+"origin" "608 1472 1456"
+}

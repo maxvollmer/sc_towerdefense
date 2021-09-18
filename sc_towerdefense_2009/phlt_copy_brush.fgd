@@ -1,0 +1,7 @@
+@PointClass size(-4 -4 -4, 4 4 4) color(255 0 0) = phlt_copy_brush : "Copies models from other entities"
+[
+	phlt_cpm_target(string) : "Copy Target"
+	phlt_cpm_class(string) : "Class" : "func_rotating"
+	targetname(target_source) : "Name"
+	angles(string) : "Pitch Yaw Roll (X Y Z)" : "0 0 0"
+]

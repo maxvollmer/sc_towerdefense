@@ -1,0 +1,12 @@
+del *.lin
+del *.p0
+del *.p1
+del *.p2
+del *.p3
+del *.prt
+del *.pts
+del *.wic
+del *.max
+del *.rmx
+del *.err
+del *.ent

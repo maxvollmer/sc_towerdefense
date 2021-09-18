@@ -1,0 +1,13 @@
+{
+"classname" "worldspawn"
+"sounds" "1"
+"MaxRange" "4096"
+"scversion" "401"
+"mapversion" "220"
+"wad" "\spiele\valve\valve\halflife.wad;\work\hl\towerdefence\sc_towerdefense_2009\zhlt.wad;\work\hl\towerdefence\sc_towerdefense_2009\sc_towerdefense.wad"
+}
+{
+"classname" "trigger_auto"
+"spawnflags" "1"
+"origin" "-568 -1080 928"
+}

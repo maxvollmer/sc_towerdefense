@@ -1,0 +1,76 @@
+<div id="lol"></div>
+
+<script type="text/javascript">
+
+//CREATES ULTIMATE TRIGGER RELAYS!!!!!
+
+var div = document.getElementById('lol');
+
+var count = 0;
+
+var v = 0;
+var j = 9;
+var k = 0;
+var l = 1;
+
+var v2 = 0;
+var j2 = 9;
+var k2 = 0;
+var l2 = 2;
+
+for (var i = 0; i < 900; i++)
+{
+  div.innerHTML += '{<br>';
+  div.innerHTML += '"classname" "trigger_relay"<br>';
+  div.innerHTML += '"targetname" "relay'+v+j+k+l+'"<br>';
+  div.innerHTML += '"target" "relay'+v2+j2+k2+l2+'"<br>';
+  div.innerHTML += '"delay" "0.01"<br>';
+  div.innerHTML += '"triggerstate" "1"<br>';
+  div.innerHTML += '"origin" "256 '+((i+900)*4-4000)+' 0"<br>';
+  div.innerHTML += '}<br>';
+
+  l++;
+  if (l == 10)
+  {
+    l = 0;
+    k++;
+    if (k == 10)
+    {
+      k = 0;
+      j++;
+      if (j == 10)
+      {
+        j = 0;
+        v++;
+      }
+    }
+  }
+  
+  l2++;
+  if (l2 == 10)
+  {
+    l2 = 0;
+    k2++;
+    if (k2 == 10)
+    {
+      k2 = 0;
+      j2++;
+      if (j2 == 10)
+      {
+        j2 = 0;
+        v2++;
+      }
+    }
+  }
+}
+
+/*
+"classname" "trigger_relay"
+"targetname" "relay0001"
+"target" "relay0002"
+"delay" "0.01"
+"triggerstate" "1"
+"origin" "256 128 64"
+*/
+
+</script>
